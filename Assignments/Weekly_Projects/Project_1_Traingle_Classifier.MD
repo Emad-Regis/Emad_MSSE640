@@ -172,3 +172,7 @@ A triangle where two sides sum to exactly the third (e.g. 1, 2, 3) is geometrica
 if a + b <= c or a + c <= b or b + c <= a:
     raise InvalidTriangleError(...)
 ```
+---
+
+7. Codes 
+[Code_P1]![/Code/1.Project1_Tringle(1).ipynb]
