@@ -1,7 +1,9 @@
 ﻿# Week 2: Project 1 — Triangle Classifier
 
 **Student:** Emad Fattah
+
 **Instructor:** Randall Granier
+
 **Class:** MSSE640
 
 ---
