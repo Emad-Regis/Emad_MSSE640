@@ -36,7 +36,7 @@ Unit tests were written using Python's built-in `unittest` library, organized in
 
 ### IDE
 
-The program was developed using **Replit**, a cloud-based IDE that supports Python and runs directly in the browser with no local installation required. The environment uses **Python 3.9** and the standard library's `unittest` module for testing.
+The program was developed using **Jupyter notebook**, an IDE that supports Python and already installed in a local Macbook. The environment uses **Python 3.14.5** and the standard library's `unittest` module for testing.
 
 ### How Data Enters the Program
 
