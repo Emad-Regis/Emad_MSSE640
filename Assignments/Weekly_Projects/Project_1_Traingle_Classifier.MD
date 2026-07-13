@@ -187,7 +187,7 @@ If you want to edit and test your Python script inside a virtual web-based edito
 
 1. Go to your GitHub repository page.
 
-[pic1]!(/Assignments/Images/Project_1_Traingles_Classifier/1.Opengitub.png)
+![pic1](/Assignments/Images/Project_1_Traingles_Classifier/1.Opengitub.png)
 
 2. Click the green Code button in the upper-right corner.
 3. Select the Codespaces tab and click Create codespace on main.
