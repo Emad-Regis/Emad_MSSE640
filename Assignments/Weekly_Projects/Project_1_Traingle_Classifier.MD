@@ -183,7 +183,7 @@ if a + b <= c or a + c <= b or b + c <= a:
 ### 8. Run it interactively using GitHub Codespaces (Cloud IDE) 
 
 Run it interactively using GitHub Codespaces (Cloud IDE)
-If you want to edit and test your Python script inside a virtual web-based editor (VS Code inside your browser), you can use GitHub Codespaces. [1, 2]
+If you want to edit and test your Python script inside a virtual web-based editor (VS Code inside your browser), you can use GitHub Codespaces:
 
     1. Go to your GitHub repository page.
 
