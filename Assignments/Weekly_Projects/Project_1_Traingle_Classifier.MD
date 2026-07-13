@@ -186,10 +186,9 @@ Run it interactively using GitHub Codespaces (Cloud IDE)
 If you want to edit and test your Python script inside a virtual web-based editor (VS Code inside your browser), you can use GitHub Codespaces:
 
 1. Go to your GitHub repository page.
-
 ![pic1](/Assignments/Images/Project_1_Traingles_Classifier/1.Opengitub.png)
-
 2. Click the green Code button in the upper-right corner.
 3. Select the Codespaces tab and click Create codespace on main.
+![Pic2](/Assignments/Images/Project_1_Traingles_Classifier/2.runcode.png)
 4. A full VS Code interface will load in your browser. Open the built-in terminal at the bottom and type the values of the traingle's sides. 
 
