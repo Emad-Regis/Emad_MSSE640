@@ -176,4 +176,4 @@ if a + b <= c or a + c <= b or b + c <= a:
 
 ## 7. Codes 
 
-[Code_P1]![_/Code/1.Project1_Tringle(1).ipynb]
+[1.Project1_Tringle(1)](_/Code/1.Project1_Tringle(1).ipynb)
