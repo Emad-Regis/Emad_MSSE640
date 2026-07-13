@@ -191,4 +191,5 @@ If you want to edit and test your Python script inside a virtual web-based edito
 3. Select the Codespaces tab and click Create codespace on main.
 ![Pic2](/Assignments/Images/Project_1_Traingles_Classifier/2.runcode.png)
 4. A full VS Code interface will load in your browser. Open the built-in terminal at the bottom and type the values of the traingle's sides.
+
 ![Pic3](/Assignments/Images/Project_1_Traingles_Classifier/3.Run.png)
