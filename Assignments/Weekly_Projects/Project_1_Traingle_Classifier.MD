@@ -185,11 +185,8 @@ if a + b <= c or a + c <= b or b + c <= a:
 Run it interactively using GitHub Codespaces (Cloud IDE)
 If you want to edit and test your Python script inside a virtual web-based editor (VS Code inside your browser), you can use GitHub Codespaces:
 
-    1. Go to your GitHub repository page.
-
-    2. Click the green Code button in the upper-right corner.
-
-    3. Select the Codespaces tab and click Create codespace on main.
-
-    4. A full VS Code interface will load in your browser. Open the built-in terminal at the bottom and type the values of the traingle's sides. 
+1. Go to your GitHub repository page.
+2. Click the green Code button in the upper-right corner.
+3. Select the Codespaces tab and click Create codespace on main.
+4. A full VS Code interface will load in your browser. Open the built-in terminal at the bottom and type the values of the traingle's sides. 
 
