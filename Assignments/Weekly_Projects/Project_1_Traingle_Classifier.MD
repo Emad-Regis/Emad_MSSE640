@@ -82,9 +82,6 @@ Error: Side a must be greater than zero (got 0.0).
 | 1       | 2      | 10     | ❌ No   | `InvalidTriangleError` — inequality violated    |
 | 10      | 3      | 4      | ❌ No   | `InvalidTriangleError` — inequality violated    |
 | `"abc"` | 4      | 5      | ❌ No   | `TypeError` — side is not a number              |
-| `None`  | 4      | 5      | ❌ No   | `TypeError` — side is not a number              |
-| `True`  | 4      | 5      | ❌ No   | `TypeError` — boolean is not a valid side       |
-| `False` | 3      | 5      | ❌ No   | `TypeError` — boolean is not a valid side       |
 | 0.0     | 4      | 5      | ❌ No   | `InvalidSideError` — float zero is still zero   |
 
 ---
