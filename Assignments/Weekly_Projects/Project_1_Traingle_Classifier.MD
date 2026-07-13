@@ -174,6 +174,34 @@ if a + b <= c or a + c <= b or b + c <= a:
 ```
 ---
 
-## 7. Codes 
+### 7. Codes 
 
 [1.Project1_Tringle(1)](https://github.com/Emad-Regis/Emad_MSSE640/blob/main/Code/1.Project1_Traingle.py)
+
+---
+
+### 8. Run it interactively using GitHub Codespaces (Cloud IDE) 
+
+Run it interactively using GitHub Codespaces (Cloud IDE)
+If you want to edit and test your Python script inside a virtual web-based editor (VS Code inside your browser), you can use GitHub Codespaces. [1, 2]
+    1. Go to your GitHub repository page.
+    2. Click the green Code button in the upper-right corner.
+    3. Select the Codespaces tab and click Create codespace on main.
+    4. A full VS Code interface will load in your browser. Open the built-in terminal at the bottom and type:
+
+nput (a, b, c)
+Result
+3, 4, 5
+✅ Valid — Scalene
+5, 5, 5
+✅ Valid — Equilateral
+5, 5, 8
+✅ Valid — Isosceles
+0, 4, 5
+❌ Error — side must be greater than zero
+1, 2, 10
+❌ Error — triangle inequality violated
+abc, 4, 5
+❌ Error — side must be a number
+
+
