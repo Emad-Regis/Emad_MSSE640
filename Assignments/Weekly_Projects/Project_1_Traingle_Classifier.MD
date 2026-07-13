@@ -176,4 +176,4 @@ if a + b <= c or a + c <= b or b + c <= a:
 
 ## 7. Codes 
 
-[1.Project1_Tringle(1)](Code/1.Project1_Traingle.py)
+[1.Project1_Tringle(1)](https://github.com/Emad-Regis/Emad_MSSE640/blob/main/Code/1.Project1_Traingle.py)
