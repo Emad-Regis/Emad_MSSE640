@@ -46,7 +46,7 @@ The program supports two input modes:
 
 2. **Direct function calls (for testing and Jupyter)** — The core function `classify_triangle(a, b, c)` can be imported and called directly with values. This is how all unit tests supply data, and it is also the recommended approach for use in Jupyter Notebook.
 
-No data was read from a file, and no results were written to a file. The program is self-contained and outputs results directly to the console or notebook cell.
+No data was read from a file, and no results were written to a file. The program is self-contained and outputs results directly to the notebook cell.
 
 ### Output
 
