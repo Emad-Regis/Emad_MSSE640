@@ -444,14 +444,22 @@ Because the AI could implement a working version of each feature — the interac
 The AI consistently produced code that was syntactically correct and logically structured. However, the specific numeric boundaries in the grade table — 60, 63, 67, 70, 73, 77, 80, 83, 87, 90, 93, 97 — were domain decisions, not derivable from any general principle. The AI encoded whatever boundaries it was given. If the specification had been ambiguous (for example, "D− covers the low-60s") and no explicit table was provided, the AI would have had to infer numbers — and those inferences would have required careful human verification. For any application where the boundary values carry real-world consequence (grading, financial thresholds, medical dosage ranges), the human role is to specify those values precisely and then use tools like BVA to verify that the code implements them exactly as specified.
 
 ---
-## Run Exmaple 
+## 9.Run Exmaple 
 
 ![Fige_1](/Assignments/Images/Vibe_Code_1/1.Inter_name_and_Grade.png)
 
 Fig 1: Enter Student's name and their grade
 
+![Fige_2](
+
+Fig 2: Invalid Negative Grade Value 
+
+Fig 3: Invalid over 100 Grade Value 
+
+Fig 4: Grade Reference 
+
 ---
-### Run in Replit ###
+### 10.Run in Replit ###
 
 click on link below 
 
