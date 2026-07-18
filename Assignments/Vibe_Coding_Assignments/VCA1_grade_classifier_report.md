@@ -465,7 +465,7 @@ Fig 4: Grade Reference
 ---
 ### 10.Run in Replit ###
 
-click on link below 
+click on icon below 
 
 [![Run on Replit](/Assignments/Images/Vibe_Code_1/replit_icon.png)](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
 
