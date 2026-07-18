@@ -446,7 +446,7 @@ The AI consistently produced code that was syntactically correct and logically s
 ---
 ## Run Exmaple 
 
-![Fige_1](_/Assignments/Images/Vibe_Code_1/1.Inter_name_and_Grade.png)
+![Fige_1](/Assignments/Images/Vibe_Code_1/1.Inter_name_and_Grade.png)
 
 Fig 1: Enter Student's name and their grade
 
