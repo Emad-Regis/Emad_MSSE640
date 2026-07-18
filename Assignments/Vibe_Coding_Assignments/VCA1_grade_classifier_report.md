@@ -1,6 +1,16 @@
+
+
+
+
 # Boundary Value Analysis & Equivalence Class Partitioning
 ## A Comprehensive Report — Student Grade Classifier
 
+**Student:** Emad Fattah
+
+**Instructor:** Randall Granier
+
+**Class:** MSSE640
+---
 **Course:** Software Quality Assurance  
 **Date:** July 15, 2026  
 **Tools Used:** Python 3.11, Streamlit, pytest, Replit AI Agent
