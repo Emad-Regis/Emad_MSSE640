@@ -446,6 +446,6 @@ The AI consistently produced code that was syntactically correct and logically s
 ---
 ### Run in Replit ###
 
-[![Run on Replit](https://replit.com)](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
+![Run on Replit]](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
 
 *End of Report*
