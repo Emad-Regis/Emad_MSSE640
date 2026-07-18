@@ -458,7 +458,7 @@ Fig 2: Invalid Negative Grade Value
 
 Fig 3: Invalid over 100 Grade Value 
 
-
+![Fige_4](/Assignments/Images/Vibe_Code_1/4.Reference.png)
 
 Fig 4: Grade Reference 
 
