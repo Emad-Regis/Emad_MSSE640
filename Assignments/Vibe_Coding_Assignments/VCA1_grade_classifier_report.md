@@ -450,7 +450,7 @@ The AI consistently produced code that was syntactically correct and logically s
 
 Fig 1: Enter Student's name and their grade
 
-![Fige_2](
+![Fige_2](/Assignments/Images/Vibe_Code_1/2. Inter_invalid_grade(-ve).png)
 
 Fig 2: Invalid Negative Grade Value 
 
