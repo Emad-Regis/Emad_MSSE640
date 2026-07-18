@@ -467,6 +467,6 @@ Fig 4: Grade Reference
 
 click on link below 
 
-[![Run on Replit](_/Assignments/Images/Vibe_Code_1/replit-logo.jpg)](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
+[![Run on Replit](/Assignments/Images/Vibe_Code_1/replit-logo.jpg)](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
 
 *End of Report*
