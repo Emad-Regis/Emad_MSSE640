@@ -454,7 +454,11 @@ Fig 1: Enter Student's name and their grade
 
 Fig 2: Invalid Negative Grade Value 
 
+![Fige_3](/Assignments/Images/Vibe_Code_1/3.Inter_invalid_grade(+100).png)
+
 Fig 3: Invalid over 100 Grade Value 
+
+
 
 Fig 4: Grade Reference 
 
