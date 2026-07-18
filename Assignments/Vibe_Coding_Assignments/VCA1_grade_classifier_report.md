@@ -446,7 +446,7 @@ The AI consistently produced code that was syntactically correct and logically s
 ---
 ## Run Exmaple 
 
-[Fige_1]!(_/Assignments/Images/Vibe_Code_1/1.Inter_name_and_Grade.png)
+![Fige_1](_/Assignments/Images/Vibe_Code_1/1.Inter_name_and_Grade.png)
 
 Fig 1: Enter Student's name and their grade
 
@@ -455,6 +455,6 @@ Fig 1: Enter Student's name and their grade
 
 click on link below 
 
-![Run on Replit]](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
+![Run on Replit](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
 
 *End of Report*
