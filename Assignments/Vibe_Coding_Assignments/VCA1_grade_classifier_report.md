@@ -10,6 +10,8 @@
 **Instructor:** Randall Granier
 
 **Class:** MSSE640
+
+**Vibe Coding Assignment 1**
 ---
 **Course:** Software Quality Assurance  
 **Date:** July 15, 2026  
