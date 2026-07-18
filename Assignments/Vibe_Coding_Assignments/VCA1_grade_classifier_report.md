@@ -444,7 +444,13 @@ Because the AI could implement a working version of each feature — the interac
 The AI consistently produced code that was syntactically correct and logically structured. However, the specific numeric boundaries in the grade table — 60, 63, 67, 70, 73, 77, 80, 83, 87, 90, 93, 97 — were domain decisions, not derivable from any general principle. The AI encoded whatever boundaries it was given. If the specification had been ambiguous (for example, "D− covers the low-60s") and no explicit table was provided, the AI would have had to infer numbers — and those inferences would have required careful human verification. For any application where the boundary values carry real-world consequence (grading, financial thresholds, medical dosage ranges), the human role is to specify those values precisely and then use tools like BVA to verify that the code implements them exactly as specified.
 
 ---
+## Run Exmample 
+[Fige_1]![_
+
+---
 ### Run in Replit ###
+
+click on link below 
 
 ![Run on Replit]](https://replit.com/@efattah/Grade-Classifier/task/a69e8fc6-5514-4eba-98ec-c16a22f529df?settings.tab=integrations)
 
