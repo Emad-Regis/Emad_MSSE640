@@ -252,6 +252,7 @@ The implementation is covered across two video clips:
 3. Create an Environment for your Collection
 4. Refactor the request to include environment variables for the base URL (`{{url}}`)
 
+[![](https://raw.githubusercontent.com/username/repo/main/assets/thumbnail.jpg)](https://raw.githubusercontent.com/username/repo/main/assets/video.mp4)
 **Video 2:**
 1. Create 7 additional requests including GET requests and at least one POST request
 
