@@ -252,7 +252,7 @@ The implementation is covered across two video clips:
 3. Create an Environment for your Collection
 4. Refactor the request to include environment variables for the base URL (`{{url}}`)
 
-!["Click_The_Linl and Click_Raw"](/Assignments/Images/Project_2_Postman/M1_P2.mp4)
+[▶️ Watch/Download Video](https://github.com/Emad-Regis/Emad_MSSE640/blob/Emad-Regis-patch-1/Assignments/Images/Project_2_Postman/M1_P2.mp4)
 
 **Video 2:**
 1. Create 7 additional requests including GET requests and at least one POST request
