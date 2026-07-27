@@ -259,7 +259,7 @@ To download the video clip
 Click Raw (or Download)
 
 
-![Make_collection](u)
+![Make_collection](/Assignments/Images/Project_2_Postman/Create_Collections.png)
 
 
 **Video 2:**
