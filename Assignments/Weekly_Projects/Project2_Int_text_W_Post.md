@@ -277,7 +277,7 @@ To download the video clip
 
 Click Raw (or Download)
 
-![Clarify]()
+![Clarify](/Assignments/Images/Project_2_Postman/Clarify.png)
 
 Fig3: Triangle Clarify 
 
