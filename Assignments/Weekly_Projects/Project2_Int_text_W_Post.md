@@ -1,7 +1,9 @@
 # Project 2: Integration Testing with Postman
 
 **Student:** EMAD FATTAH
+
 **Class:** MSSE640
+
 **Instructor:** Randall Granier
 
 ---
