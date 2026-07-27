@@ -178,6 +178,10 @@ The following public Open APIs provide structured, live data configurations for 
 
 ---
 
+[Click To Open API](https://triangle-classifier.replit.app)
+
+---
+
 ### Endpoints
 
 #### `POST /api/triangle/classify`
