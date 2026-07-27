@@ -264,6 +264,9 @@ Click Raw (or Download)
 
 Fig1: Create Collection 
 
+![Make_Env](/Assignments/Images/Project_2_Postman/Create_Env.png)
+
+Fig2: Create Environment
 
 **Video 2:**
 1. Create 7 additional requests including GET requests and at least one POST request
@@ -273,6 +276,8 @@ To download the video clip
 [Open This Link](https://github.com/Emad-Regis/Emad_MSSE640/blob/Emad-Regis-patch-1/Assignments/Images/Project_2_Postman/M2_P2.mp4)
 
 Click Raw (or Download)
+
+
 
 ---
 
