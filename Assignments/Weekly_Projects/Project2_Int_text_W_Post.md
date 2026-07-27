@@ -261,6 +261,8 @@ Click Raw (or Download)
 
 ![Make_collection](/Assignments/Images/Project_2_Postman/Create_Collections.png)
 
+Fig1: Create Collection 
+
 
 **Video 2:**
 1. Create 7 additional requests including GET requests and at least one POST request
