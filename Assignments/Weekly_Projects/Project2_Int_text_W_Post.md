@@ -289,7 +289,7 @@ Fig3: Triangle Clarify
 
 ---
 
-### Explanation
+### Explanation Of The Main Points
 
 #### 1. No Data Persisted in This API
 
