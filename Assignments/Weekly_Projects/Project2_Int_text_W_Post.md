@@ -166,7 +166,7 @@ The following public Open APIs provide structured, live data configurations for 
 
 ### 9. References
 
-- Open API Financial Architecture Frameworks. FPT AI Factory Systems. Available at: fpt.ai
+- Open API Financial Architecture Frameworks. FPT AI Factory Systems. Available at: (https://fpt.ai)
 - Modern Rest API Registries and Public Infrastructure. CodeFile Developers Portal. Available at: coderfile.io
 - Open-Source API Ecosystems. ApiScout Architecture Guides. Available at: apiscout.dev
 
@@ -178,7 +178,7 @@ The following public Open APIs provide structured, live data configurations for 
 
 ---
 
-[Click To Open API](https://triangle-classifier.replit.app)
+[Click To Open Triangle Classifier API](https://triangle-classifier.replit.app)
 
 ---
 
