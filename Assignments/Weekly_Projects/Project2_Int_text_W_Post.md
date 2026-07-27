@@ -285,7 +285,7 @@ Click Raw (or Download)
 
 ![Clarify](/Assignments/Images/Project_2_Postman/Clarify.png)
 
-Fig3: Triangle Clarify 
+Fig3: Triangle Classify 
 
 ---
 
