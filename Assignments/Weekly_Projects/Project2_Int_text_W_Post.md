@@ -73,11 +73,11 @@ HTTP verbs define the semantic intent of an operation being executed against a s
 
 Servers reply with standardized three-digit integers to definitively convey the success or failure status of an inbound request.
 
-- **1xx Informational:** Handshake or protocol status updates (e.g., `101 Switching Protocols`).
-- **2xx Success:** The action was successfully received, understood, and accepted (e.g., `200 OK`, `201 Created`).
-- **3xx Redirection:** The client must take additional action to resolve the requested resource location (e.g., `301 Moved Permanently`).
-- **4xx Client Error:** Indicates an issue originating from the client, such as invalid syntax or missing permissions (e.g., `401 Unauthorized`, `404 Not Found`).
-- **5xx Server Error:** Indicates the client issued a structurally valid request, but the server encountered an internal failure (e.g., `500 Internal Server Error`, `503 Service Unavailable`).
+- **1 Informational:** Handshake or protocol status updates (e.g., `101 Switching Protocols`).
+- **2 Success:** The action was successfully received, understood, and accepted (e.g., `200 OK`, `201 Created`).
+- **3 Redirection:** The client must take additional action to resolve the requested resource location (e.g., `301 Moved Permanently`).
+- **4 Client Error:** Indicates an issue originating from the client, such as invalid syntax or missing permissions (e.g., `401 Unauthorized`, `404 Not Found`).
+- **5 Server Error:** Indicates the client issued a structurally valid request, but the server encountered an internal failure (e.g., `500 Internal Server Error`, `503 Service Unavailable`).
 
 ---
 
@@ -277,7 +277,9 @@ To download the video clip
 
 Click Raw (or Download)
 
+![Clarify]()
 
+Fig3: Triangle Clarify 
 
 ---
 
