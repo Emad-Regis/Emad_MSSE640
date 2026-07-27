@@ -259,6 +259,9 @@ To download the video clip
 Click Raw (or Download)
 
 
+![Make_collection](u)
+
+
 **Video 2:**
 1. Create 7 additional requests including GET requests and at least one POST request
 
