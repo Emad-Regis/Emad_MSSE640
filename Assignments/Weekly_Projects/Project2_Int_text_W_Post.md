@@ -261,6 +261,7 @@ Click Raw (or Download)
 
 ![Make_collection](/Assignments/Images/Project_2_Postman/Create_Collections.png)
 
+
 Fig1: Create Collection 
 
 
