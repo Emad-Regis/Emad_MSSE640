@@ -321,7 +321,9 @@ All 9 conditions are satisfied. The payment clears every underwriting check.
 
 **Observation:** The phone number `(444) 555-6666` contains parentheses, a space, and a hyphen. The validator strips all non-numeric characters with `re.sub(r"\D", "", v)` before checking for exactly 10 digits, so the formatted version passes identically to the bare `4445556666` form. This is the correct behaviour for real-world payment forms where users enter phone numbers in varied formats.
 
+
 ## Snapshot: All Fields Valid
+
 
 ![all_approved](/Assignments/Images/Vibe_Code_2/2.Py_Snapprove.png)
 ---
