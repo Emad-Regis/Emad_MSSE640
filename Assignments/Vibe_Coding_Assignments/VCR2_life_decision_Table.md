@@ -1,17 +1,21 @@
 # E-Check Payment Simulator
 ## Decision Table Test Methodology — Python Edition
  
-**Language / Framework:** Python 3 · Streamlit  
+**Language / Framework:** Python 3 · Streamlit 
+
 **Date:** August 2026
+
 **Student:** Emad Fattah
+
 **Instructor:** Randall Granier
+
 **Class:** MSSE640
 **Vibe Coding Assignment 2**
 
 ---
 **Course:** Software Quality Assurance  
 **Date:** August 01, 2026  
-**Tools Used:** Python 3.11, Streamlit, pytest, Replit AI Agent
+
 ---
 
 ## 1. Introduction
