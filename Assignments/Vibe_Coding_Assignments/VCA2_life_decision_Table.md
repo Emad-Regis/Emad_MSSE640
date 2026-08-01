@@ -401,6 +401,10 @@ Rainy Day Scenario — TC-11: Multiple Fields Invalid
 
 The ZIP code failure (`48O99`) also tests a common **transcription error**: the letter O looks like the digit 0 in many fonts. The regex `\d{5}` correctly rejects the letter, whereas a human reviewer might miss it at a glance.
 
+## Snapshot: Multiple Fields Invalid 
+
+![three_faults](/Assignments/Images/Vibe_Code_2/4.Py_three_faults.png)
+
 ---
 
 ### 7.3 TC-08 — First Name Is Whitespace Only
