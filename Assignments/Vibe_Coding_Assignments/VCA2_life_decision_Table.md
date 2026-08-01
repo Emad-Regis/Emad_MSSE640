@@ -436,6 +436,10 @@ Rainy Day Scenario — TC-08: First Name Is Whitespace Only
 
 **Observation:** The Python validator uses `len(v.strip()) >= 1`. Calling `.strip()` removes leading and trailing whitespace before measuring length, so `"   "` becomes `""` which has length 0 — a clean failure. This matters because a payer might accidentally press the spacebar in a name field, leaving a field that *looks* populated. Without the trim check, a name of three spaces would silently pass and produce a settlement record with a blank payer name.
 
+## Snapshot: First Name is White Space Only 
+
+![Missing_name](/Assignments/Images/Vibe_Code_2/5.Py_missingname.png)
+
 ---
 
 ## 8. Conclusion
