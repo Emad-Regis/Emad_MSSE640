@@ -3,7 +3,7 @@
  
 **Language / Framework:** Python 3 · Streamlit 
 
-**Date:** August 2026
+**Date:** August 01, 2026
 
 **Student:** Emad Fattah
 
@@ -11,9 +11,7 @@
 
 **Class:** MSSE640
 **Vibe Coding Assignment 2**
----
 **Course:** Software Quality Assurance  
-**Date:** August 01, 2026  
 ---
 
 ## 1. Introduction
