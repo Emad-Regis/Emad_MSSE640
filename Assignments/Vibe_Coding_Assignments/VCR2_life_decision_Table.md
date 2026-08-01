@@ -117,7 +117,7 @@ streamlit run artifacts/echeck-python/app.py --server.port 5000
 
 ### 4.3 Screenshot — Initial State (All Rules Pending)
 
-![E-Check Payment Simulator — initial state](Assignments/Images/Vibe_Code_2/py-app-initial.jpg)
+![E-Check Payment Simulator — initial state](/Assignments/Images/Vibe_Code_2/py-app-initial.jpg)
 
 The left panel is the payment form. The right panel is the live decision table. On first load, all nine rows show **PENDING** because no field has been touched yet. As soon as a field receives input the corresponding row resolves to **PASS** or **FAIL** without any button being clicked.
 
