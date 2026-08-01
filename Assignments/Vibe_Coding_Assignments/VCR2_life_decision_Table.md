@@ -11,11 +11,9 @@
 
 **Class:** MSSE640
 **Vibe Coding Assignment 2**
-
 ---
 **Course:** Software Quality Assurance  
 **Date:** August 01, 2026  
-
 ---
 
 ## 1. Introduction
