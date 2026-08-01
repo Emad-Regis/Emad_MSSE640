@@ -6,6 +6,18 @@
 **Author:** AI-Assisted Development Session  
 **Date:** August 2026
 
+**Student:** Emad Fattah
+
+**Instructor:** Randall Granier
+
+**Class:** MSSE640
+
+**Vibe Coding Assignment 2**
+
+---
+**Course:** Software Quality Assurance  
+**Date:** August 01, 2026  
+**Tools Used:** Python 3.11, Streamlit, pytest, Replit AI Agent
 ---
 
 ## 1. Introduction
