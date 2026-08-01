@@ -319,7 +319,7 @@ All 9 conditions are satisfied. The payment clears every underwriting check.
 
 **Objective:** Confirm that a single-field failure is sufficient to decline the payment, even when all other eight rules pass perfectly.
 
-**What changed from TC-01:** `routing = "02100002"` (8 digits — one digit removed).
+**What changed from TC-01:** `routing = "12312312"` (8 digits — one digit removed).
 
 ```
 Rainy Day Scenario — TC-02: Routing Number Too Short
