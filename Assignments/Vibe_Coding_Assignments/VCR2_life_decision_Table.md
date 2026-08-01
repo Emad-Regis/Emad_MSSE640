@@ -1,5 +1,5 @@
 # E-Check Payment Simulator
-## Decision Table Test Methodology — Python Edition
+## Decision Table Test Methodology 
  
 **Language / Framework:** Python 3 · Streamlit 
 
