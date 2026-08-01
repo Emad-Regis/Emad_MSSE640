@@ -309,7 +309,7 @@ All 9 conditions are satisfied. The payment clears every underwriting check.
 
 **What the browser shows:** All nine rows in the decision table turn green. The verdict banner displays a green "PAYMENT APPROVED" box with the generated reference code (e.g. `EC-K4R2WX9A`). A green transaction card is appended to the history panel.
 
-**Observation:** The phone number `(415) 555-0148` contains parentheses, a space, and a hyphen. The validator strips all non-numeric characters with `re.sub(r"\D", "", v)` before checking for exactly 10 digits, so the formatted version passes identically to the bare `4155550148` form. This is the correct behaviour for real-world payment forms where users enter phone numbers in varied formats.
+**Observation:** The phone number `(444) 555-6666` contains parentheses, a space, and a hyphen. The validator strips all non-numeric characters with `re.sub(r"\D", "", v)` before checking for exactly 10 digits, so the formatted version passes identically to the bare `4445556666` form. This is the correct behaviour for real-world payment forms where users enter phone numbers in varied formats.
 
 ---
 
