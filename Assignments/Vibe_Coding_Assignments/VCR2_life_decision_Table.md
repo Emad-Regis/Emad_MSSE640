@@ -273,15 +273,15 @@ Confirm that a submission where every field satisfies its rule produces an **APP
 
 | Field | Value | Rule satisfied |
 |-------|-------|:--------------:|
-| First Name | Jordan | ✓ |
-| Last Name | Whitfield | ✓ |
-| Street Address | 1847 Larkspur Avenue | ✓ |
-| State | CA | ✓ |
-| ZIP Code | 94110 | ✓ |
-| Phone Number | (415) 555-0148 | ✓ |
-| Routing Number | 021000021 | ✓ |
+| First Name | Emad | ✓ |
+| Last Name | Fattah | ✓ |
+| Street Address | 1234 Holly Dr | ✓ |
+| State | MI | ✓ |
+| ZIP Code | 48099 | ✓ |
+| Phone Number | (444) 555-6666 | ✓ |
+| Routing Number | 213123123 | ✓ |
 | Account Number | 73648291 | ✓ |
-| Payment Amount | 250.00 | ✓ |
+| Payment Amount | 20.00 | ✓ |
 
 ### Decision Table Output (command-line verification)
 
@@ -353,7 +353,7 @@ This scenario is important because it confirms the **precision boundary** of the
 **Objective:** Confirm that when more than one field fails, all failing rules are identified and reported together — not just the first failure encountered.
 
 **What changed from TC-01:**
-- `zip_code = "9411O"` (letter O instead of digit 0)
+- `zip_code = "48O99"` (letter O instead of digit 0)
 - `account  = "7364829"` (7 digits — one below the 8-digit minimum)
 - `amount   = "0.00"` (not greater than zero)
 
@@ -380,7 +380,7 @@ Rainy Day Scenario — TC-11: Multiple Fields Invalid
 
 **Observation:** This case tests the **report-all-failures** behaviour. A system that short-circuits on the first failure would only report ZIP Code and hide the account and amount problems. The evaluation loop iterates over all nine rules regardless of earlier results, so a payer receiving the declined notice sees the complete picture and can fix all three issues in one correction cycle rather than submitting three times.
 
-The ZIP code failure (`9411O`) also tests a common **transcription error**: the letter O looks like the digit 0 in many fonts. The regex `\d{5}` correctly rejects the letter, whereas a human reviewer might miss it at a glance.
+The ZIP code failure (`48O99`) also tests a common **transcription error**: the letter O looks like the digit 0 in many fonts. The regex `\d{5}` correctly rejects the letter, whereas a human reviewer might miss it at a glance.
 
 ---
 
