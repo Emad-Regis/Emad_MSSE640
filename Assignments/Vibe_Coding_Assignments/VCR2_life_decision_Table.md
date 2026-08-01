@@ -10,8 +10,11 @@
 **Instructor:** Randall Granier
 
 **Class:** MSSE640
+
 **Vibe Coding Assignment 2**
-**Course:** Software Quality Assurance  
+
+**Course:** Software Quality Assurance 
+
 ---
 
 ## 1. Introduction
