@@ -9,6 +9,7 @@
 
 **Instructor:** Randall Granier
 
+
 **Class:** MSSE640
 
 **Vibe Coding Assignment 2**
