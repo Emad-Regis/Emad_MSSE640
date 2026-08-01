@@ -1,11 +1,8 @@
 # E-Check Payment Simulator
 ## Decision Table Test Methodology — Python Edition
-
-**Application:** E-Check Payment Simulator  
+ 
 **Language / Framework:** Python 3 · Streamlit  
-**Author:** AI-Assisted Development Session  
 **Date:** August 2026
-
 **Student:** Emad Fattah
 **Instructor:** Randall Granier
 **Class:** MSSE640
