@@ -334,7 +334,7 @@ All 9 conditions are satisfied. The payment clears every underwriting check.
 
 **Objective:** Confirm that a single-field failure is sufficient to decline the payment, even when all other eight rules pass perfectly.
 
-**What changed from TC-01:** `routing = "12312312"` (8 digits — one digit removed).
+**What changed from TC-01:** `routing = "13212312"` (8 digits — one digit removed).
 
 ```
 Rainy Day Scenario — TC-02: Routing Number Too Short
@@ -360,6 +360,10 @@ Rainy Day Scenario — TC-02: Routing Number Too Short
 **Observation:** Eight of nine rules pass, but the conjunctive logic means there is no partial approval. One failure is conclusive. In the browser, only the Routing Number row turns red; all others remain green. The declined transaction card lists "Routing Number" as the sole failed check.
 
 This scenario is important because it confirms the **precision boundary** of the routing-number rule: 8 digits look almost correct and would likely pass a human visual inspection. The automated validator catches it without ambiguity.
+
+## Snapshot: Routing number too short 
+
+![eight_routing](/Assignments/Images/Vibe_Code_2/3.PY_Disappove_Rout.png)
 
 ---
 
