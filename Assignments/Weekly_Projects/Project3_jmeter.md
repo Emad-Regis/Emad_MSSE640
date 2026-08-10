@@ -537,13 +537,13 @@ JMeter automatically calculates the Apdex table in the generated dashboard, prov
 
 ---
 
-[Download Video Clip "Load Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
+Click the link and then click view list download the video clip 
 
-Load Test 
+["Load Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
+["Stess Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
-
-
+["Endurance Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
 
 ---
