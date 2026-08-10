@@ -107,7 +107,7 @@ In a Standard Endurance Test, virtual users (Threads) are ramped up to an expect
 **JMeter Configuration**
 
 - **Thread Group:** Standard Thread Group or Concurrency Thread Group.
-- **Ramp-Up Period:** Brief initial ramp-up window (e.g., 10â€“30 minutes) to reach target load smoothly without shocking the application.
+- **Ramp-Up Period:** Brief initial ramp-up window (e.g., 10 - 30 minutes) to reach target load smoothly without shocking the application.
 - **Duration (Scheduler):** Enable **Specify Thread Lifetime** / **Scheduler** and set Duration (e.g., 86400 seconds for 24 hours).
 - **Timers:** Use a Constant Throughput Timer or Precise Throughput Timer to maintain a fixed request rate per minute.
 
