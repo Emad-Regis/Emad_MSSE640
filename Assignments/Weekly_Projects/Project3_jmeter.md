@@ -198,13 +198,13 @@ A High-Load Endurance Test subjects the system to maximum expected capacity (or 
 | Cyclic / Diurnal         | 48-72 Hours | Multi-day sine wave                | Validate off-peak resource cleanup and auto-recovery            |
 | High-Load Stress         | 8-12 Hours  | Sustained peak capacity            | Test queue capacity, connection pool stability, and survival    |
 
-![pic7](Assignments/Images/Projec3_jmeter/7.clip7.png)
+![pic7](/Assignments/Images/Projec3_jmeter/7.clip7.png)
 
-![pic8](Assignments/Images/Projec3_jmeter/8.clip8.png)
+![pic8](/Assignments/Images/Projec3_jmeter/8.clip8.png)
 
-![pic9](Assignments/Images/Projec3_jmeter/9.clip9.png)
+![pic9](/Assignments/Images/Projec3_jmeter/9.clip9.png)
 
-![pic10](Assignments/Images/Projec3_jmeter/10.clip10.png)
+![pic10](/Assignments/Images/Projec3_jmeter/10.clip10.png)
 
 ---
 
