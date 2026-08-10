@@ -307,7 +307,7 @@ When evaluating Stress and Spike test results, monitor the following metrics in 
 
 $$\text{Error Rate (\%)} = \left( \frac{\text{Failed Requests}}{\text{Total Requests}} \right) \times 100$$
 
-- **95thâ€“99th Percentile Response Time:** Shows how hard tail-end requests are impacted during peaks.
+- **95th-99th Percentile Response Time:** Shows how hard tail-end requests are impacted during peaks.
 - **Throughput (Transactions Per Second):** Watch for throughput flattening or dropping while thread counts increase (a signal of saturation).
 - **HTTP Response Codes:** Track transitions from HTTP 200 OK to 500 Internal Server Error, 502 Bad Gateway, 503 Service Unavailable, or 504 Gateway Timeout.
 - **System Recovery Time ($$T_{\text{recovery}}$$):** The time required after a spike or stress event for error rates to drop to 0% and response times to return to baseline.
@@ -473,11 +473,11 @@ An Apdex score of **0.90** indicates a **"Good"** user performance rating.
 
 | Apdex Range   | Quality Rating | Assessment / SLA Status                                       |
 |-----------------|------------------|---------------------------------------------------------------------|
-| 0.94 â€“ 1.00     | Excellent        | Exceptional responsiveness; fully meets strict SLAs.                |
-| 0.85 â€“ 0.93     | Good             | Solid performance; minor optimization opportunities.                |
-| 0.70 â€“ 0.84     | Fair             | Acceptable under peak load; approaching capacity boundaries.        |
-| 0.50 â€“ 0.69     | Poor             | SLA breach; notable user friction and system slowness.              |
-| 0.00 â€“ 0.49     | Unacceptable     | Critical performance failure; high error rates or severe latency.   |
+| 0.94 - 1.00     | Excellent        | Exceptional responsiveness; fully meets strict SLAs.                |
+| 0.85 - 0.93     | Good             | Solid performance; minor optimization opportunities.                |
+| 0.70 - 0.84     | Fair             | Acceptable under peak load; approaching capacity boundaries.        |
+| 0.50 - 0.69     | Poor             | SLA breach; notable user friction and system slowness.              |
+| 0.00 - 0.49     | Unacceptable     | Critical performance failure; high error rates or severe latency.   |
 
 ### 4. Configuring Apdex in JMeter
 
