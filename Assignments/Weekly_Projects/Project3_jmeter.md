@@ -85,6 +85,13 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 - Latency vs Connect Time
 - Active Threads over Time (built-in JMeter listener graph)
 
+![pic1]
+![pic2]
+![pic3]
+![pic4]
+![pic5]
+![pic6]
+
 ---
 
 ## Endurance (Soak) Performance Testing in JMeter
