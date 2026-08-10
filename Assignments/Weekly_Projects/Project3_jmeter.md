@@ -539,9 +539,9 @@ JMeter automatically calculates the Apdex table in the generated dashboard, prov
 
 ## Testing Triangle Specifier Web App with Apache JMeter
 
+["Triangle Specifier"](https://triangle-classifier.replit.app)
 
-
-Click the choose the link, click it and then click View raw to download the video clip 
+Choose the link, click it and then click View raw to download the video clip 
 
 ["Load Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
