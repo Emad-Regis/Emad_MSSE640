@@ -57,7 +57,7 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 
 **JMeter Setup:** Use the **Ultimate Thread Group** or **Concurrency Thread Group** plugin to define sharp spikes, or nested Thread Groups with near-zero ramp-up for rapid increases.
 
-> *Threads jump abruptly to a high peak, drop back to baseline, and may spike again â€” testing elasticity and recovery.*
+> *Threads jump abruptly to a high peak, drop back to baseline, and may spike again - testing elasticity and recovery.*
 
 ### 5. Soak (Endurance) Load Test
 
@@ -138,7 +138,7 @@ A Step-Up Endurance Test increases the virtual user load in discrete steps, hold
 
 **Description**
 
-Real-world enterprise applications experience natural daily traffic fluctuations â€” high load during business hours and low load overnight. A Cyclic (Diurnal) Endurance Test simulates these multi-day wave patterns over 48 to 72 hours to evaluate system stability and recovery across continuous operational cycles.
+Real-world enterprise applications experience natural daily traffic fluctuations - high load during business hours and low load overnight. A Cyclic (Diurnal) Endurance Test simulates these multi-day wave patterns over 48 to 72 hours to evaluate system stability and recovery across continuous operational cycles.
 
 **JMeter Configuration**
 
@@ -201,14 +201,14 @@ In performance engineering, **Stress Testing** and **Spike Testing** are two ess
 
 **Purpose / Description**
 
-The primary objective of a Progressive Step-Stress Test is to identify the maximum load capacity (throughput/concurrency limit) of the target application. Unlike a standard load test â€” which stays within expected peak traffic limits â€” a stress test continually steps up the thread count well past expected peak capacity until performance severely degrades or errors begin occurring.
+The primary objective of a Progressive Step-Stress Test is to identify the maximum load capacity (throughput/concurrency limit) of the target application. Unlike a standard load test - which stays within expected peak traffic limits - a stress test continually steps up the thread count well past expected peak capacity until performance severely degrades or errors begin occurring.
 
 **JMeter Setup**
 
 - **Thread Group:** Stepping Thread Group or Concurrency Thread Group (via JMeter Plugins).
 - **Configuration:**
   - **Initial Load:** Start with expected operational load (e.g., 50 threads).
-  - **Step Increments:** Add 50 threads every 10â€“15 minutes.
+  - **Step Increments:** Add 50 threads every 10 - 15 minutes.
   - **Duration:** Run until thread count exceeds expected design limit (e.g., 300 threads).
 - **Key Observations:** Pinpoint the exact thread count where response times spike exponentially or where HTTP 5xx errors begin appearing.
 
@@ -227,7 +227,7 @@ This variation pushes the application deep into an overloaded state (e.g., 200% 
 - **Thread Group:** Ultimate Thread Group or Concurrency Thread Group.
 - **Configuration:**
   - **Phase 1 (Baseline):** 50 threads for 10 minutes.
-  - **Phase 2 (Over-Capacity Stress):** Ramp rapidly to 400 threads (200% of capacity) and maintain for 15â€“20 minutes.
+  - **Phase 2 (Over-Capacity Stress):** Ramp rapidly to 400 threads (200% of capacity) and maintain for 15 - 20 minutes.
   - **Phase 3 (Recovery Phase):** Ramp down to 50 threads and observe for 20 minutes.
 - **Key Observations:** Measure the time required for response times and queue lengths to return to normal baseline metrics after the stress is removed.
 
