@@ -541,7 +541,7 @@ Click the choose the link, click it and then click View raw to download the vide
 
 ["Load Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
-["Stess Test"](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
+["Stess Test"](/Assignments/Images/Projec3_jmeter/stress(2).mp4)
 
 ["Endurance Test"](/Assignments/Images/Projec3_jmeter/Endurance(2).mp4)
 
