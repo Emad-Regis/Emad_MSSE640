@@ -41,11 +41,11 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 
 **JMeter Setup:** Use a short ramp-up to reach target threads quickly, hold constant using the **Scheduler**'s duration, then ramp down.
 
-> *Threads quickly reach a plateau and remain flat for the duration of the test â€” this is the classic "flat-top" load pattern.*
+> *Threads quickly reach a plateau and remain flat for the duration of the test - this is the classic "flat-top" load pattern.*
 
 ### 3. Step Load Test
 
-**Purpose:** Incrementally increase load in discrete steps (e.g., 25 â†’ 50 â†’ 75 â†’ 100 users) with pauses at each step, to identify at which concurrency level performance starts to degrade (helps find the breaking point gradually rather than a shock).
+**Purpose:** Incrementally increase load in discrete steps (e.g., 25 to 50 to 75 to 100 users) with pauses at each step, to identify at which concurrency level performance starts to degrade (helps find the breaking point gradually rather than a shock).
 
 **JMeter Setup:** Achieved via **Stepping Thread Group** (a JMeter plugin) or multiple Thread Groups scheduled sequentially.
 
