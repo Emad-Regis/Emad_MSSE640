@@ -333,13 +333,13 @@ $$\text{Error Rate (\%)} = \left( \frac{\text{Failed Requests}}{\text{Total Requ
 - **HTTP Response Codes:** Track transitions from HTTP 200 OK to 500 Internal Server Error, 502 Bad Gateway, 503 Service Unavailable, or 504 Gateway Timeout.
 - **System Recovery Time ($$T_{\text{recovery}}$$):** The time required after a spike or stress event for error rates to drop to 0% and response times to return to baseline.
 
-![pic11](Assignments/Images/Projec3_jmeter/11.clip11.png)
+![pic11](/Assignments/Images/Projec3_jmeter/11.clip11.png)
 
-![pic12](Assignments/Images/Projec3_jmeter/12.clip12.png)
+![pic12](/Assignments/Images/Projec3_jmeter/12.clip12.png)
 
-![pic13](Assignments/Images/Projec3_jmeter/13.clip13.png)
+![pic13](/Assignments/Images/Projec3_jmeter/13.clip13.png)
 
-![pic14](Assignments/Images/Projec3_jmeter/14.clip14.png)
+![pic14](/Assignments/Images/Projec3_jmeter/14.clip14.png)
 
 
 ---
