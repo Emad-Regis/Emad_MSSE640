@@ -49,7 +49,7 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 
 **JMeter Setup:** Achieved via **Stepping Thread Group** (a JMeter plugin) or multiple Thread Groups scheduled sequentially.
 
-> *Each "step" holds threads at a fixed level for a set duration before increasing to the next tier â€” useful for pinpointing capacity thresholds.*
+> *Each "step" holds threads at a fixed level for a set duration before increasing to the next tier - useful for pinpointing capacity thresholds.*
 
 ### 4. Spike Load Test
 
