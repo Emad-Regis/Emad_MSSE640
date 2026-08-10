@@ -304,7 +304,7 @@ Real-world enterprise systems often experience repeated traffic surges - such as
 |------------------------|-----------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Step-Stress           | Find absolute breaking point / maximum capacity limit    | Progressive staircase ramp up beyond limit                     | Memory allocation failures, database connection exhaustion, CPU throttling      |
 | Stress / Recovery     | Test self-healing and system elasticity after overload    | Over-capacity plateau followed by step-down to baseline         | Queue lockups, unrecovered thread pools, permanent service degradation          |
-| Single Spike          | Test shock resistance to immediate traffic surges          | Near-instantaneous spike (5xâ€“10x) for a short duration           | Connection dropouts, HTTP 502/503/504 gateway timeouts, buffer overflows        |
+| Single Spike          | Test shock resistance to immediate traffic surges          | Near-instantaneous spike (5x - 10x) for a short duration           | Connection dropouts, HTTP 502/503/504 gateway timeouts, buffer overflows        |
 | Multi-Spike / Burst   | Test resilience against repeated surges                    | Multiple successive traffic spikes separated by idle windows    | Resource leakage compounding over time, cache invalidation storms               |
 
 ### How to Configure Stress / Spike Tests in JMeter
@@ -464,12 +464,12 @@ Apdex categorizes every request into one of three distinct user experience zones
 
 | Zone       | Condition                                   | Weight |
 |------------|----------------------------------------------|--------|
-| Satisfied   | Response Time â‰¤ T                           | 1.0    |
-| Tolerating  | T < Response Time â‰¤ F (where F = 4T)         | 0.5    |
+| Satisfied   | Response Time <= T                           | 1.0    |
+| Tolerating  | T < Response Time <= F (where F = 4T)         | 0.5    |
 | Frustrated  | Response Time > F, or Error                  | 0.0    |
 
 1. **Satisfied Zone ($$N_S$$)**:
-   - **Condition**: Response time is less than or equal to the target threshold T (e.g., â‰¤ 500 ms) and the HTTP status code is successful (200 OK).
+   - **Condition**: Response time is less than or equal to the target threshold T (e.g., <= 500 ms) and the HTTP status code is successful (200 OK).
    - **User Impact**: The user experiences smooth, uninterrupted application performance.
    - **Score Weight**: 1.0 (100% satisfied).
 2. **Tolerating Zone ($$N_T$$)**:
