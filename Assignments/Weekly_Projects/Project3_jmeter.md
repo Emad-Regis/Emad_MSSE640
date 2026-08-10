@@ -85,7 +85,8 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 - Latency vs Connect Time
 - Active Threads over Time (built-in JMeter listener graph)
 
-![pic1]
+![pic1](/Assignments/Images/Projec3_jmeter/1.clip1.png)
+
 ![pic2]
 ![pic3]
 ![pic4]
