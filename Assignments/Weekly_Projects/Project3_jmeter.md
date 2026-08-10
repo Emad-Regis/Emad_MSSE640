@@ -87,11 +87,15 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 
 ![pic1](/Assignments/Images/Projec3_jmeter/1.clip1.png)
 
-![pic2]
-![pic3]
-![pic4]
-![pic5]
-![pic6]
+![pic2](/Assignments/Images/Projec3_jmeter/2.clip2.png)
+
+![pic3](/Assignments/Images/Projec3_jmeter/3.clip3.png)
+
+![pic4](/Assignments/Images/Projec3_jmeter/4.clip4.png)
+
+![pic5](/Assignments/Images/Projec3_jmeter/5.clip5.png)
+
+![pic6](/Assignments/Images/Projec3_jmeter/6.clip6.png)
 
 ---
 
