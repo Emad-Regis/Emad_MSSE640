@@ -289,9 +289,9 @@ Real-world enterprise systems often experience repeated traffic surges - such as
 - **Thread Group:** Ultimate Thread Group.
 - **Configuration:**
   - **Baseline:** Constant background load of 40 threads.
-  - **Spike 1:** Burst to 250 threads for 4 minutes â†’ drop back to 40 threads for 15 minutes.
-  - **Spike 2:** Burst to 300 threads for 4 minutes â†’ drop back to 40 threads for 15 minutes.
-  - **Spike 3:** Burst to 220 threads for 4 minutes â†’ drop back to 40 threads.
+  - **Spike 1:** Burst to 250 threads for 4 minutes, drop back to 40 threads for 15 minutes.
+  - **Spike 2:** Burst to 300 threads for 4 minutes, drop back to 40 threads for 15 minutes.
+  - **Spike 3:** Burst to 220 threads for 4 minutes, drop back to 40 threads.
 - **Key Observations:** Check whether peak latency increases with each subsequent spike, which indicates uncollected garbage, thread exhaustion, or unreleased database handles.
 
 - **X-Axis:** Time (Minutes)
