@@ -537,7 +537,7 @@ JMeter automatically calculates the Apdex table in the generated dashboard, prov
 
 ---
 
-![clip1]()
+![clip1](/Assignments/Images/Projec3_jmeter/Load_T(2).mp4)
 
 Load Test 
 
