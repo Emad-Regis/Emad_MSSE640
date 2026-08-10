@@ -181,10 +181,10 @@ A High-Load Endurance Test subjects the system to maximum expected capacity (or 
 
 | Endurance Test Pattern | Duration    | Thread Pattern                    | Primary Objective                                             |
 |--------------------------|-------------|-------------------------------------|-----------------------------------------------------------------|
-| Standard Soak            | 12â€“24 Hours | Flat, constant thread count        | Detect subtle memory leaks and file descriptor exhaustion       |
-| Step-Up Endurance        | 12â€“18 Hours | Incremental stair-step plateaus    | Measure resource consumption across capacity thresholds         |
-| Cyclic / Diurnal         | 48â€“72 Hours | Multi-day sine wave                | Validate off-peak resource cleanup and auto-recovery            |
-| High-Load Stress         | 8â€“12 Hours  | Sustained peak capacity            | Test queue capacity, connection pool stability, and survival    |
+| Standard Soak            | 12-24 Hours | Flat, constant thread count        | Detect subtle memory leaks and file descriptor exhaustion       |
+| Step-Up Endurance        | 12-18 Hours | Incremental stair-step plateaus    | Measure resource consumption across capacity thresholds         |
+| Cyclic / Diurnal         | 48-72 Hours | Multi-day sine wave                | Validate off-peak resource cleanup and auto-recovery            |
+| High-Load Stress         | 8-12 Hours  | Sustained peak capacity            | Test queue capacity, connection pool stability, and survival    |
 
 ---
 
