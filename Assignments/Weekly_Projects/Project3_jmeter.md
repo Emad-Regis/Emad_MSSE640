@@ -3,7 +3,9 @@
 ## Testing with Apache JMeter
 
 **Student:** Emad Fattah
+
 **Class:** MSSE640
+
 **Instructor:** Randell Grainer
 
 ---
