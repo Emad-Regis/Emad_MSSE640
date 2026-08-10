@@ -537,6 +537,16 @@ JMeter automatically calculates the Apdex table in the generated dashboard, prov
 
 ---
 
+![clip1]()
+
+Load Test 
+
+
+
+
+
+
+---
 ## Conclusion
 
 Apache JMeter proves to be a versatile and powerful open-source tool for comprehensive performance testing across the full spectrum of non-functional testing needs. This project explored the breadth of JMeter's capabilities, beginning with foundational load performance tests - Ramp-Up, Steady State, Step Load, Spike, and Soak - each designed to reveal how a system behaves under different concurrency patterns and reveal degradation thresholds before they impact real users. Building on this, endurance (soak) testing demonstrated how sustained, cyclic, and high-load scenarios over extended durations expose subtle but critical defects such as memory leaks, connection pool exhaustion, and disk saturation that short-duration tests cannot detect.
