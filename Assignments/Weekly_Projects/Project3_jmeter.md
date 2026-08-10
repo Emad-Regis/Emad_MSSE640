@@ -451,25 +451,8 @@ Apdex categorizes every request into one of three distinct user experience zones
    - **User Impact**: The user experiences unacceptable slowness or system failure, leading to task abandonment.
    - **Score Weight**: 0.0 (0% satisfied).
 
-### 2. Mathematical Formula
 
-The Apdex score is calculated using the following formula:
-
-$$\text{Apdex Score} = \frac{N_S + \frac{N_T}{2}}{N_S + N_T + N_F}$$
-
-**Example Calculation**
-
-Suppose JMeter executes 10,000 total HTTP requests with a target threshold T = 500 ms and F = 2000 ms:
-
-- **Satisfied Requests ($$N_S$$)**: 8,500 (responded in â‰¤ 500 ms)
-- **Tolerating Requests ($$N_T$$)**: 1,000 (responded between 501 ms and 2000 ms)
-- **Frustrated Requests ($$N_F$$)**: 500 (300 took > 2000 ms, 200 returned HTTP 500 errors)
-
-$$\text{Apdex} = \frac{8500 + \frac{1000}{2}}{10000} = \frac{9000}{10000} = 0.90$$
-
-An Apdex score of **0.90** indicates a **"Good"** user performance rating.
-
-### 3. Apdex Score Rating Scale
+### 2. Apdex Score Rating Scale
 
 | Apdex Range   | Quality Rating | Assessment / SLA Status                                       |
 |-----------------|------------------|---------------------------------------------------------------------|
@@ -479,7 +462,7 @@ An Apdex score of **0.90** indicates a **"Good"** user performance rating.
 | 0.50 - 0.69     | Poor             | SLA breach; notable user friction and system slowness.              |
 | 0.00 - 0.49     | Unacceptable     | Critical performance failure; high error rates or severe latency.   |
 
-### 4. Configuring Apdex in JMeter
+### 3. Configuring Apdex in JMeter
 
 JMeter allows you to define global default thresholds as well as specific thresholds for individual API endpoints in the `bin/user.properties` file:
 
