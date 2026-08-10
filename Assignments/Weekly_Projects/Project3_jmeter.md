@@ -16,14 +16,14 @@
 
 ## JMeter Load Performance Testing
 
-Load Performance Testing in JMeter refers to simulating multiple concurrent users (Threads) hitting an application/API/server over a defined time period, in order to measure response time, throughput, error rate, and system stability under expected â€” or extreme â€” usage conditions.
+Load Performance Testing in JMeter refers to simulating multiple concurrent users (Threads) hitting an application/API/server over a defined time period, in order to measure response time, throughput, error rate, and system stability under expected - or extreme - usage conditions.
 
 In JMeter, this is configured primarily through the **Thread Group** element, where you define:
 
-- **Number of Threads (users)** â€” simulated concurrent users
-- **Ramp-Up Period** â€” time taken to start all threads
-- **Loop Count / Duration** â€” how long or how many times the test runs
-- **Scheduler** â€” controls start/end time of the test
+- **Number of Threads (users)** - simulated concurrent users
+- **Ramp-Up Period** - time taken to start all threads
+- **Loop Count / Duration** - how long or how many times the test runs
+- **Scheduler** - controls start/end time of the test
 
 Below are the common types of Load Performance Tests you can build in JMeter, each with a graph showing **Time (X-axis)** vs **Number of Threads (Y-axis)**.
 
@@ -61,7 +61,7 @@ Below are the common types of Load Performance Tests you can build in JMeter, ea
 
 ### 5. Soak (Endurance) Load Test
 
-**Purpose:** Apply a moderate, sustained load over a long duration (hours) to detect issues that only appear over time â€” such as memory leaks, connection pool exhaustion, or gradual performance degradation.
+**Purpose:** Apply a moderate, sustained load over a long duration (hours) to detect issues that only appear over time - such as memory leaks, connection pool exhaustion, or gradual performance degradation.
 
 **JMeter Setup:** Constant thread count with a long **Scheduler duration** (e.g., 1+ hour), often paired with JMeter's **Duration Assertion** and monitoring plugins.
 
@@ -248,9 +248,9 @@ A Single Spike Test evaluates the system's immediate response when traffic incre
 - **Thread Group:** Ultimate Thread Group or Concurrency Thread Group.
 - **Configuration:**
   - **Baseline:** Maintain a low baseline (e.g., 30 threads) for 20 minutes.
-  - **Spike Ramp-Up:** Jump from 30 to 300 threads in 1â€“5 seconds (near-zero ramp-up).
+  - **Spike Ramp-Up:** Jump from 30 to 300 threads in 1-5 seconds (near-zero ramp-up).
   - **Spike Hold:** Hold peak load for 5 minutes.
-  - **Spike Drop:** Drop back to 30 threads in 1â€“5 seconds.
+  - **Spike Drop:** Drop back to 30 threads in 1-5 seconds.
 - **JMeter Timers:** Combine with a **Synchronizing Timer** (Timer element in JMeter) to force all threads to release requests simultaneously at the exact same instant for maximum impact.
 
 - **X-Axis:** Time (Minutes)
@@ -261,7 +261,7 @@ A Single Spike Test evaluates the system's immediate response when traffic incre
 
 **Purpose / Description**
 
-Real-world enterprise systems often experience repeated traffic surges â€” such as cron jobs executing, batch processing jobs, or recurring promotional bursts during a live event. A Multi-Spike Test applies successive high-volume traffic bursts separated by short recovery intervals to test whether memory, connection pools, or cache layers compound debt over repeated shocks.
+Real-world enterprise systems often experience repeated traffic surges - such as cron jobs executing, batch processing jobs, or recurring promotional bursts during a live event. A Multi-Spike Test applies successive high-volume traffic bursts separated by short recovery intervals to test whether memory, connection pools, or cache layers compound debt over repeated shocks.
 
 **JMeter Setup**
 
@@ -524,10 +524,10 @@ JMeter automatically calculates the Apdex table in the generated dashboard, prov
 
 ## Conclusion
 
-Apache JMeter proves to be a versatile and powerful open-source tool for comprehensive performance testing across the full spectrum of non-functional testing needs. This project explored the breadth of JMeter's capabilities, beginning with foundational load performance tests â€” Ramp-Up, Steady State, Step Load, Spike, and Soak â€” each designed to reveal how a system behaves under different concurrency patterns and reveal degradation thresholds before they impact real users. Building on this, endurance (soak) testing demonstrated how sustained, cyclic, and high-load scenarios over extended durations expose subtle but critical defects such as memory leaks, connection pool exhaustion, and disk saturation that short-duration tests cannot detect.
+Apache JMeter proves to be a versatile and powerful open-source tool for comprehensive performance testing across the full spectrum of non-functional testing needs. This project explored the breadth of JMeter's capabilities, beginning with foundational load performance tests - Ramp-Up, Steady State, Step Load, Spike, and Soak - each designed to reveal how a system behaves under different concurrency patterns and reveal degradation thresholds before they impact real users. Building on this, endurance (soak) testing demonstrated how sustained, cyclic, and high-load scenarios over extended durations expose subtle but critical defects such as memory leaks, connection pool exhaustion, and disk saturation that short-duration tests cannot detect.
 
 The exploration of stress and spike testing further highlighted JMeter's ability to simulate extreme conditions, from progressive step-stress tests that identify absolute breaking points to sudden traffic spikes that test a system's elasticity and recovery capabilities. These test types are essential for validating that applications not only perform well under expected load but also degrade gracefully and recover cleanly when pushed beyond normal operating boundaries.
 
-Underpinning all of these test strategies is JMeter's modular architecture â€” Thread Groups, HTTP Request Samplers, Config Elements, and Listeners â€” which work together to simulate realistic user behavior, inject dynamic configuration and authentication data, and capture detailed performance metrics. Finally, the Apdex scoring methodology ties these technical measurements back to business value, translating raw latency and error data into a single, stakeholder-friendly satisfaction score that can be benchmarked against SLAs.
+Underpinning all of these test strategies is JMeter's modular architecture - Thread Groups, HTTP Request Samplers, Config Elements, and Listeners - which work together to simulate realistic user behavior, inject dynamic configuration and authentication data, and capture detailed performance metrics. Finally, the Apdex scoring methodology ties these technical measurements back to business value, translating raw latency and error data into a single, stakeholder-friendly satisfaction score that can be benchmarked against SLAs.
 
 Taken together, these tools and techniques illustrate that effective performance testing is not a single test execution but a layered strategy: combining load, endurance, stress, and spike testing with well-architected test plans and meaningful metrics like Apdex allows QA and performance engineering teams to build a complete, evidence-based picture of application reliability, scalability, and readiness for production-scale traffic.
