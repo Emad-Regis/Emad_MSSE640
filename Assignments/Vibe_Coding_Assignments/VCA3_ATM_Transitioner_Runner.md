@@ -17,6 +17,14 @@
 
 ---
 
+## Table of Contents
+
+A) [Introduction](#Introduction)
+B) [Vibe Coding Assignment](#Vibe Coding Assignment)
+C) [Conclusion](#Conclusion)
+
+___
+
 ## A) Introduction
 
 ### The Fundamentals of the Three Testing Techniques
