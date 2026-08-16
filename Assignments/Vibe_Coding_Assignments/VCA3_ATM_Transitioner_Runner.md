@@ -12,7 +12,9 @@
 # ATM Transaction Runner — Software Testing Project Report
 
 **Project:** ATM State Machine with State Transition, Control Flow, and Data Flow Testing
+
 **Language:** Python 3 (standard library `unittest`)
+
 **Test results:** 44 / 44 tests passed
 
 ---
