@@ -22,7 +22,7 @@
 ## Table of Contents
 
 1. [Introduction](#Introduction)
-2. [Vibe_Coding_Assignment](#VibeCodingAssignment)
+2. [Vibe Coding](#VibeCodingAssignment)
 3. [Conclusion](#Conclusion)
 
 
