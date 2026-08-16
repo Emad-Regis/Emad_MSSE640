@@ -29,6 +29,7 @@
 
 
 
+
 ___
 
 ## A. Introduction
@@ -169,7 +170,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 ---
 
-## C. Conclusion <a name="C. Conclusion"></a>
+## C. Conclusion <a name="C.Conclusion"></a>
 
 
 ### What Problems Did We Have?
