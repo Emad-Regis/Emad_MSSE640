@@ -22,12 +22,14 @@
 ## Table of Contents
 
 A. [Introduction](#Introduction)
+
 B. [Vibe Coding](#VibeCodingAssignment)
+
 C. [Conclusion](#Conclusion)
 
 ___
 
-## A. Introduction <a name="Introduction"></a>
+## A. Introduction<a name="Introduction"></a>
 
 ### The Fundamentals of the Three Testing Techniques
 
