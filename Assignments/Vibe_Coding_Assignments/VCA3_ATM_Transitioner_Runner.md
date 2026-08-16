@@ -19,15 +19,15 @@
 
 ## Table of Contents
 
-A) [Introduction](#Introduction)
+A) [Introduction](#A.Introduction)
 
-B) [Vibe Coding Assignment](#Vibe Coding Assignment)
+B) [Vibe Coding Assignment](#B.Vibe Coding Assignment)
 
-C) [Conclusion](#Conclusion)
+C) [Conclusion](#C.Conclusion)
 
 ___
 
-## A) Introduction
+## A.Introduction
 
 ### The Fundamentals of the Three Testing Techniques
 
@@ -106,7 +106,7 @@ The ATM was deliberately designed *to be testable* by all three techniques:
 
 ---
 
-## B) Vibe Coding Assignment
+## B.Vibe Coding Assignment
 
 ### Why Python
 
@@ -165,7 +165,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 ---
 
-## C) Conclusion
+## C.Conclusion
 
 ### What Problems Did We Have?
 
