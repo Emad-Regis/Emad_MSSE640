@@ -1,5 +1,7 @@
 # Vibe_Coding Assignment #3
-# State Transition Testing / Control Flow Testing / Data Flow Testing
+
+**State Transition Testing / Control Flow Testing / Data Flow Testing**
+
 **Student:** Emad Fattah
 
 **Class:** MSSE640
