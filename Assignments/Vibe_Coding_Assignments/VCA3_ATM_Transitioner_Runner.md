@@ -21,8 +21,8 @@
 
 ## Table of Contents
 
-1.[Introduction](#1.Introduction)
-
+1. [Introduction](#1.Introduction)
+   
 2. [Vibe Coding Assignment](#Vibe Coding Assignment)
 
 3. [Conclusion](#Conclusion)
