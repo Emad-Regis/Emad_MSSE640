@@ -23,7 +23,7 @@
 
 A. Introduction
 
-B. Vibe Coding
+B. Vibe Coding Assignment
 
 C. Conclusion
 
