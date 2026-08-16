@@ -25,9 +25,6 @@
 2. [Vibe Coding](#VibeCodingAssignment)
 3. [Conclusion](#Conclusion)
 
-
-
-
 ___
 
 ## 1. Introduction <a name="Introduction"></a>
