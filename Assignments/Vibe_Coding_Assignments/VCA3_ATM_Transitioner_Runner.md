@@ -106,7 +106,7 @@ The ATM was deliberately designed *to be testable* by all three techniques:
 
 ---
 
-## 2. Vibe Coding Assignment <a name="Vibe Coding Assignment"></a>
+## 2. Vibe Coding Assignment <a name="VibeCodingAssignment"></a>
 
 ### Why Python
 
