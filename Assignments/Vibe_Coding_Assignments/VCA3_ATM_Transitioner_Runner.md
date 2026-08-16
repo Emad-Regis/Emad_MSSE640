@@ -1,7 +1,5 @@
-# Vibe_Coding #3
-
-## Testing with Apache JMeter
-
+# Vibe_Coding Assignment #3
+# State Transition Testing / Control Flow Testing / Data Flow Testing
 **Student:** Emad Fattah
 
 **Class:** MSSE640
