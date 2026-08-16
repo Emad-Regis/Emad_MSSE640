@@ -23,7 +23,7 @@
 
 A.[Introduction](#A.Introduction)
 
-B.[Vibe Coding Assignment](#B.Vibe Coding Assignment)
+B.[Vibe Coding Assignment] (#B.Vibe Coding Assignment)
 
 C.[Conclusion](#C.Conclusion)
 
