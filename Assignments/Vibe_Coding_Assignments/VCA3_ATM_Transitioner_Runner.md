@@ -21,11 +21,11 @@
 
 ## Table of Contents
 
-A.[Introduction](#A.Introduction)
+[A.Introduction](#A.Introduction)
 
-B.[Vibe Coding Assignment] (#B.Vibe Coding Assignment)
+[B.Vibe Coding Assignment] (#B.Vibe Coding Assignment)
 
-C.[Conclusion](#C.Conclusion)
+[C.Conclusion](#C.Conclusion)
 
 
 ___
