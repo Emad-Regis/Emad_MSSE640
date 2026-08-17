@@ -208,6 +208,10 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 ![click_run](/Assignments/Images/Vibe_Code_3/3.clickrunall.png)
 
+5. After you input the card number, put the PIN number, the system will show the name and balance.
+
+![Put_PIN](
+
 
 
    
