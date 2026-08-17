@@ -228,8 +228,9 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 2. Withdraw more than 10,000$
 
+![draw1000](/
 
-3. Withdraw with text input instead of amount number.
+3. Input letters in card number request.
 
 
 4. Withdraw with negative amount
