@@ -228,7 +228,7 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 2. Withdraw more than 10,000$
 
-![draw1000](/
+![draw1000](/Assignments/Images/Vibe_Code_3/9.Drown10.png)
 
 3. Input letters in card number request.
 
