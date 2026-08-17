@@ -11,7 +11,7 @@
 ---
 # ATM Transaction Runner — Software Testing Project Report
 
-[ATM Project Link](https://verbose-memory-4q747v7jvgr4f4jw.github.dev) . For more info about the link see [Running Python Script](#running_python_script) section.
+[ATM Project Link](https://verbose-memory-4q747v7jvgr4f4jw.github.dev) . For more info about the link see [Running The Python Script](#running_python_script) section.
 
 
 
