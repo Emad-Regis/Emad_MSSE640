@@ -11,7 +11,7 @@
 ---
 # ATM Transaction Runner — Software Testing Project Report
 
-[ATM Project](Code/ATM_test.ipynb)
+[ATM Project](Emad_MSSE640/Code/ATM_test.ipynb)
 
 **Project:** ATM State Machine with State Transition, Control Flow, and Data Flow Testing
 
