@@ -224,7 +224,18 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 1. Input the PIN number wrong three times.
 
-![input_wrongPIN](
+![input_wrongPIN](/Assignments/Images/Vibe_Code_3/8.exmp3atmwrong.png)
+
+2. Withdraw more than 10,000$
+
+
+3. Withdraw with text input instead of amount number.
+
+
+4. Withdraw with negative amount
+
+
+
 
 
 
