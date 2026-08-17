@@ -201,5 +201,7 @@ Building the ATM around the three testing techniques — rather than bolting tes
    
    ![open_Link](/Assignments/Images/Vibe_Code_3/1.Openthelink.png)
    
+3. Scroll down until you see the test results 44/44 Passed
+   ![scroll_down](/Assignments/Images/Vibe_Code_3/2.scrolldown_see44.png)
    
       
