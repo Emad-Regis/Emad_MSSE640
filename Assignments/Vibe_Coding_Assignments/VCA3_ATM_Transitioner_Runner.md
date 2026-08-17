@@ -212,6 +212,10 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 ![Put_PIN](/Assignments/Images/Vibe_Code_3/3.entiercard.png)
 
+6. After you see the name and balance you can input the amount of money to draw (for Example 1500$)
+
+![drow_money](
+
 
 
 
