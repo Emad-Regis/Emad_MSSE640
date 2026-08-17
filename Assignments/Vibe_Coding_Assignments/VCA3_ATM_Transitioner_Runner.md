@@ -112,7 +112,7 @@ The ATM was deliberately designed *to be testable* by all three techniques:
 
 ---
 
-## B. Vibe Coding Assignment<a name="VibeCodingAssignment"></a>
+## B. Vibe Coding Assignment
 
 ### Why Python
 
@@ -171,7 +171,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 ---
 
-## C. Conclusion<a name="3.Conclusion"></a>
+## C. Conclusion
 
 
 ### What Problems Did We Have?
@@ -193,7 +193,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 Building the ATM around the three testing techniques  rather than bolting tests on afterward  produced code that is easier to reason about, fails safely on every rainy-day path, and proves its own correctness with a single command. The combination of a readable language (Python), a systematic testing discipline, and an AI partner for scaffolding and debugging made the whole cycle  design, build, break, fix, verify  remarkably fast.
 
-### Running The Python Script <a name="running_python_script></a>
+### Running The Python Script<a name="running_python_script></a>
 1. To run the Code Click the link under 
    [ATM Project Link](https://verbose-memory-4q747v7jvgr4f4jw.github.dev)
 
