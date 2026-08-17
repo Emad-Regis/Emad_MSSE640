@@ -11,7 +11,7 @@
 ---
 # ATM Transaction Runner — Software Testing Project Report
 
-[ATM Project](https://verbose-memory-4q747v7jvgr4f4jw.github.dev) . For more info about the link see "Running Python Script" section.
+[ATM Project Link](https://verbose-memory-4q747v7jvgr4f4jw.github.dev) . For more info about the link see "Running Python Script" section.
 
 
 
@@ -194,8 +194,8 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 Building the ATM around the three testing techniques — rather than bolting tests on afterward — produced code that is easier to reason about, fails safely on every rainy-day path, and proves its own correctness with a single command. The combination of a readable language (Python), a systematic testing discipline, and an AI partner for scaffolding and debugging made the whole cycle — design, build, break, fix, verify — remarkably fast.
 
 ### Running The Python Script 
-1. To run the Code Click the link 
-   [ATM Project](https://verbose-memory-4q747v7jvgr4f4jw.github.dev)
+1. To run the Code Click the link under 
+   [ATM Project Link](https://verbose-memory-4q747v7jvgr4f4jw.github.dev)
 
 2. You see the platform hereunder
    
