@@ -191,7 +191,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 ### Final Word
 
-Building the ATM around the three testing techniques — rather than bolting tests on afterward — produced code that is easier to reason about, fails safely on every rainy-day path, and proves its own correctness with a single command. The combination of a readable language (Python), a systematic testing discipline, and an AI partner for scaffolding and debugging made the whole cycle — design, build, break, fix, verify — remarkably fast.
+Building the ATM around the three testing techniques  rather than bolting tests on afterward  produced code that is easier to reason about, fails safely on every rainy-day path, and proves its own correctness with a single command. The combination of a readable language (Python), a systematic testing discipline, and an AI partner for scaffolding and debugging made the whole cycle  design, build, break, fix, verify  remarkably fast.
 
 ### Running The Python Script 
 1. To run the Code Click the link under 
