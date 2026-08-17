@@ -201,7 +201,11 @@ Building the ATM around the three testing techniques — rather than bolting tes
    
    ![open_Link](/Assignments/Images/Vibe_Code_3/1.Openthelink.png)
    
-3. Scroll down until you see the test results tests 44/44 passed
+3. Scroll down until you see the test results 44/44 tests passed
    ![scroll_down](/Assignments/Images/Vibe_Code_3/2.scrolldown_see44.png)
+
+4. Input the card number (1111) or any number in Data Test table.
+
+
    
       
