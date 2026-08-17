@@ -232,6 +232,7 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 3. Input letters in card number request.
 
+![input_letters](/Assignments/Images/Vibe_Code_3/10.inputlettercardno.png)
 
 4. Withdraw with negative amount
 
