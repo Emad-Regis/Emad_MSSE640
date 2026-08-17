@@ -199,6 +199,7 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 2. You see the picture hereunder
    
-   [open_Link](Assignments/Images/Vibe_Code_3/1.Openthelink.png)
+   ![open_Link](Assignments/Images/Vibe_Code_3/1.Openthelink.png)
+   
    
       
