@@ -204,11 +204,11 @@ Building the ATM around the three testing techniques — rather than bolting tes
 3. Scroll down until you see the test results 44/44 tests passed
    ![scroll_down](/Assignments/Images/Vibe_Code_3/2.scrolldown_see44.png)
 
-4. Click Run All, the system will ask you to put the card number, use (1234) or any card number in Data Test table.
+4. Click Run All, the system will ask you to put the card number, use (1111) or any card number in Data Test table.
 
 ![click_run](/Assignments/Images/Vibe_Code_3/3.clickrunall.png)
 
-5. After you input the card number, put the PIN number that belongs to the card, the system will show the name and balance.
+5. After you input the card number, put the PIN number (1234) that belongs to the card, the system will show the name and balance.
 
 ![Put_PIN](/Assignments/Images/Vibe_Code_3/3.entiercard.png)
 
