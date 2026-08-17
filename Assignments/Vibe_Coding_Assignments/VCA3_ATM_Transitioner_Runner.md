@@ -222,7 +222,7 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 ### Examples of Rainy Day Seniors 
 
-1. Input the PIN number wrong three times.
+1. Input the wrong PIN number three times.
 
 ![input_wrongPIN](/Assignments/Images/Vibe_Code_3/8.exmp3atmwrong.png)
 
