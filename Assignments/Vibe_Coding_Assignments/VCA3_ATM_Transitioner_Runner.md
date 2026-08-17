@@ -197,9 +197,9 @@ Building the ATM around the three testing techniques — rather than bolting tes
 1. To run the Code Click the link 
    [ATM Project](https://verbose-memory-4q747v7jvgr4f4jw.github.dev)
 
-2. You see the picture hereunder
+2. You see the platform hereunder
    
-   ![open_Link](Assignments/Images/Vibe_Code_3/1.Openthelink.png)
+   ![open_Link](/Assignments/Images/Vibe_Code_3/1.Openthelink.png)
    
    
       
