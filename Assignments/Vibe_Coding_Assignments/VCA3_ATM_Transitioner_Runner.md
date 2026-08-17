@@ -216,6 +216,10 @@ Building the ATM around the three testing techniques — rather than bolting tes
 
 ![drow_money](/Assignments/Images/Vibe_Code_3/6.Pinaccepted.png)
 
+7. After you input the amount, the system will show you final message with remaining balance and eject the card.
+
+![completion](/Assignments/Images/Vibe_Code_3/7.drown1500.png)
+
 
 
 
