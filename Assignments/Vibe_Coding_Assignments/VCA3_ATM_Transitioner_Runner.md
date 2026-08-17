@@ -27,7 +27,7 @@
 
 A. [Introduction](#introduction)
 
-B. Vibe Coding Assignment
+B. [Vibe Coding Assignment](#vibe_coding_assignment)
 
 C. Conclusion
 
@@ -112,7 +112,7 @@ The ATM was deliberately designed *to be testable* by all three techniques:
 
 ---
 
-## B. Vibe Coding Assignment
+## B. Vibe Coding Assignment <a id="vibe_coding_assignment"></a>
 
 ### Why Python
 
