@@ -29,7 +29,7 @@ A. [Introduction](#introduction)
 
 B. [Vibe Coding Assignment](#vibe_coding_assignment)
 
-C. Conclusion
+C. [Conclusion](#conclusion)
 
 ___
 
@@ -171,7 +171,7 @@ ATM initial cash: $10,000 · Maximum PIN attempts: 3 · Single-transaction limit
 
 ---
 
-## C. Conclusion
+## C. Conclusion <a id="conclusion"></a>
 
 
 ### What Problems Did We Have?
