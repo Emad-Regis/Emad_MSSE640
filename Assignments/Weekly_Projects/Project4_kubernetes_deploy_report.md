@@ -1,4 +1,4 @@
-# 📋 Project Deployment Report: Local Kubernetes Microservices
+# Project Deployment Report: Local Kubernetes Microservices
 
 **Student:** Emad Fattah
 
