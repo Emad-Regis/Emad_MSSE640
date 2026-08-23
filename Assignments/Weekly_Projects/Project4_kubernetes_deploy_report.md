@@ -196,7 +196,7 @@ The file is exported to three Coding languages:
    [🛠️Click](/Code/4.EMAD_Demo_BTQ.side)
 
 2. Java
-   [☕Click]()
+   [☕Click](/Code/4.EMAD_Demo_BTQ.java)
    
 5. Python
  [🐍Click](/Code/4.EMAD_Demo_BTQ.py)
