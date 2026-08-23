@@ -1,5 +1,13 @@
 # 📋 Project Deployment Report: Local Kubernetes Microservices
 
+**Student:** Emad Fattah
+
+**Class:** MSSE640
+
+**Instructor:** Randell Grainer
+
+---
+
 ## 1. Executive Summary
 The goal of this initiative was to clone the Google Cloud Platform Microservices Demo repository and adapt its installation instructions to run successfully on a local infrastructure environment. The target stack chosen was **Minikube** utilizing the **Docker Desktop** virtualization driver optimized for an **Apple Silicon (M1/M2/M3/M4) macOS architecture**. All 12 system components (11 microservices + 1 Redis cache database) were successfully deployed, validated as stable, and exposed to the host machine's browser layer.
 
