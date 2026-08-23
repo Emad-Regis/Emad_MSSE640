@@ -193,7 +193,7 @@ Figure3: Recording Selenium
 The file is exported to three Coding languages 
 1. Data Language JSON
    
-   ![_🛠️_](/Code/4.EMAD_Demo_BTQ.side)
+   [🛠️Click](/Code/4.EMAD_Demo_BTQ.side)
 
 2. Java
 
