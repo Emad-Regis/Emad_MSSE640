@@ -1,0 +1,159 @@
+{
+  "id": "f3728545-0397-4236-a5c2-dcbaf3afeb09",
+  "version": "2.0",
+  "name": "Demo_Boutique",
+  "url": "http://localhost:8080/",
+  "tests": [{
+    "id": "23195457-43ef-4ed7-9e89-6fced1887a59",
+    "name": "EMAD_Rec_Btq1",
+    "commands": [{
+      "id": "a5260484-cb9c-4df0-a814-ec483436fcd6",
+      "comment": "",
+      "command": "open",
+      "target": "http://localhost:8080/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "41d12f29-52f4-4c1c-b1ee-cdd6b90ea94f",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1472x906",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "a49b90b8-2eb6-465f-a1bd-b76dc185bbcc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.col-md-4:nth-child(2) .hot-product-card-img-overlay",
+      "targets": [
+        ["css=.col-md-4:nth-child(2) .hot-product-card-img-overlay", "css:finder"],
+        ["xpath=//a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f9a1c2a9-02df-4cb0-b3d1-bbae01f4735a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cymbal-button-primary",
+      "targets": [
+        ["css=.cymbal-button-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add To Cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1e602c14-c40e-4b8f-baea-fc90be4fd6c7",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Continue Shopping",
+      "targets": [
+        ["linkText=Continue Shopping", "linkText"],
+        ["css=.cymbal-button-primary:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'Continue Shopping')]", "xpath:link"],
+        ["xpath=(//a[contains(@href, '/')])[3]", "xpath:href"],
+        ["xpath=//form/a", "xpath:position"],
+        ["xpath=//a[contains(.,'Continue Shopping')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e1a858de-55ae-46f6-9549-81cd32f9da8c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.col-md-4:nth-child(6) .hot-product-card-img-overlay",
+      "targets": [
+        ["css=.col-md-4:nth-child(6) .hot-product-card-img-overlay", "css:finder"],
+        ["xpath=//div[6]/a/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "09643815-91f5-465e-afc9-a9f3a198ada8",
+      "comment": "",
+      "command": "click",
+      "target": "id=quantity",
+      "targets": [
+        ["id=quantity", "id"],
+        ["name=quantity", "name"],
+        ["css=#quantity", "css:finder"],
+        ["xpath=//select[@id='quantity']", "xpath:attributes"],
+        ["xpath=//div/select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "5e61cd24-8576-4298-ad5a-1ebb927c1028",
+      "comment": "",
+      "command": "select",
+      "target": "id=quantity",
+      "targets": [],
+      "value": "label=2"
+    }, {
+      "id": "1dfea2fe-4882-4cc9-b1df-84f89f639539",
+      "comment": "",
+      "command": "click",
+      "target": "css=#quantity > option:nth-child(2)",
+      "targets": [
+        ["css=#quantity > option:nth-child(2)", "css:finder"],
+        ["xpath=//select[@id='quantity']/option[2]", "xpath:idRelative"],
+        ["xpath=//div/select/option[2]", "xpath:position"],
+        ["xpath=//option[contains(.,'2')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "823153fe-9c6c-4463-8d29-0d99eab135d3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cymbal-button-primary",
+      "targets": [
+        ["css=.cymbal-button-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add To Cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "8da93038-90b1-4892-b993-8adb524b111e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.col-md-3:nth-child(3) img",
+      "targets": [
+        ["css=.col-md-3:nth-child(3) img", "css:finder"],
+        ["xpath=//div/div/div/div[3]/div/a/img", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7189cd79-daf3-47bd-b507-daf254daf99c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cymbal-button-primary",
+      "targets": [
+        ["css=.cymbal-button-primary", "css:finder"],
+        ["xpath=//button[@type='submit']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add To Cart')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "1b052182-3b9b-4b0e-a7f7-15e799e2f390",
+      "comment": "",
+      "command": "click",
+      "target": "css=.cymbal-button-primary:nth-child(1)",
+      "targets": [
+        ["css=.cymbal-button-primary:nth-child(1)", "css:finder"],
+        ["xpath=(//button[@type='submit'])[2]", "xpath:attributes"],
+        ["xpath=//div/button", "xpath:position"],
+        ["xpath=//button[contains(.,'Place Order')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "ea89c457-93eb-4f70-9dd3-335ed3b7833b",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": []
+  }],
+  "urls": [],
+  "plugins": []
+}
