@@ -193,7 +193,7 @@ Figure3: Recording Selenium
 
 Click the link and Click the Raw View to download and see the Video of Recording Selenium IDE
 
-[Selenium IDE](/)
+[Selenium IDE](/Assignments/Images/Project4_Minikube/3.Video3_Sel.MP4)
 
 **Exporting the Recorder Files**
 
