@@ -12,13 +12,23 @@
 
 
 Modern cloud-first applications increasingly rely on microservices architectures to ensure scalability, fault tolerance, and language flexibility. Evaluating, developing, and testing these distributed systems, however, requires robust deployment environments that mimic production infrastructure without incurring high cloud platform costs. This project focuses on the local engineering and deployment of Google Cloud Platform’s (GCP) Online Boutique (formerly microservices-demo)—a web-based e-commerce application designed to showcase enterprise modernization patterns using Kubernetes, gRPC, and multi-language services.
+
+
 While the original blueprint is optimized for Google Kubernetes Engine (GKE), this initiative adapts the cloud-native application to execute entirely within a local bare-metal environment. The target stack leverages Minikube running via the Docker Desktop virtualization driver, specifically optimized to run on an Apple Silicon (M1/M2/M3/M4) ARM64 macOS architecture.
+
 The primary objectives of this deployment were to:
+
 Overcome Hardware Constraints: Dynamically scale and calibrate resource allocations (CPU and RAM) to fit localized system limits without compromising application stability.
 Resolve Architecture Barriers: Bypass legacy virtualization layers (like VirtualBox) by utilizing native containerization engines compatible with Apple Silicon hardware.
+
+
 Orchestrate Multi-Language Microservices: Successfully deploy and audit all 12 system components—encompassing 11 functional microservices (written in Go, C#, Node.js, Python, and Java) and a Redis cache database.
 Establish Local Ingress Routing: Bridge isolated cluster networking back to the host machine’s browser layer to ensure fully functional, end-to-end user transactions.
+
+
 The following sections detail the comprehensive environment preparation, manifest execution metrics, network routing configurations, and resource teardown workflows that validated this successful local deployment.
+
+
 ## 1. Executive Summary
 The goal of this initiative was to clone the Google Cloud Platform Microservices Demo repository and adapt its installation instructions to run successfully on a local infrastructure environment. The target stack chosen was **Minikube** utilizing the **Docker Desktop** virtualization driver optimized for an **Apple Silicon (M1/M2/M3/M4) macOS architecture**. All 12 system components (11 microservices + 1 Redis cache database) were successfully deployed, validated as stable, and exposed to the host machine's browser layer.
 
