@@ -198,7 +198,8 @@ The file is exported to three Coding languages
 2. Java
 
 3. Python
-   [🐍Click]()
+   [🐍Click](/Code/4.EMAD_Demo_BTQ.py)
+   
 
    
    
