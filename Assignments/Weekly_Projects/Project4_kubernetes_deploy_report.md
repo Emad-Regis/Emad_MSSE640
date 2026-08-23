@@ -186,4 +186,6 @@ The Selenium is added in Fire Fox Web Browser for recording the event in Boutiqu
 
 Figure3: Recording Selenium 
 
-![Pic3]()
+![Pic3](/Assignments/Images/Project4_Minikube/3.Sel_Test.png)
+
+
