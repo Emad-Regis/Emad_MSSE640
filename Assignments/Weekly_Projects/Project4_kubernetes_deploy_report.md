@@ -131,3 +131,8 @@ kubectl delete -f ./release/kubernetes-manifests.yaml
 # 2. Power down the Minikube virtual instance to reclaim RAM/CPU
 minikube stop
 ```
+---
+## 6. Video Clip Boutique
+
+["Boutique"](/Assignments/Images/Projec3_jmeter/Endurance(2).mp4)
+
