@@ -134,5 +134,9 @@ minikube stop
 ---
 ## 6. Video Clip Boutique
 
-["Boutique"](/Assignments/Images/Projec3_jmeter/Endurance(2).mp4)
+1. Click on the link under
+
+2. Click the View raw to download and watch the video.
+
+["Boutique"](/Assignments/Images/Project4_Minikube/2.Video1_T.mp4)
 
