@@ -182,7 +182,7 @@ The [Selenium Downloads Page](https://www.selenium.dev/downloads/) provides imme
 ### Using Selenium IDE in testing "Boutique" Website:
 
 
-The Selenium is added in Fire Fox Web Browser for recording the event in Boutique Website 
+The Selenium is added in FireFox🦊 Web Browser for recording the event in Boutique Website 
 
 Figure3: Recording Selenium 
 
