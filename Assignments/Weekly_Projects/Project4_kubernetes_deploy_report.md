@@ -14,16 +14,20 @@
 Modern cloud-first applications increasingly rely on microservices architectures to ensure scalability, fault tolerance, and language flexibility. Evaluating, developing, and testing these distributed systems, however, requires robust deployment environments that mimic production infrastructure without incurring high cloud platform costs. This project focuses on the local engineering and deployment of Google Cloud Platform’s (GCP) Online Boutique (formerly microservices-demo)—a web-based e-commerce application designed to showcase enterprise modernization patterns using Kubernetes, gRPC, and multi-language services.
 
 
-While the original blueprint is optimized for Google Kubernetes Engine (GKE), this initiative adapts the cloud-native application to execute entirely within a local bare-metal environment. The target stack leverages Minikube running via the Docker Desktop virtualization driver, specifically optimized to run on an Apple Silicon (M1/M2/M3/M4) ARM64 macOS architecture.
+While the original blueprint is optimized for Google Kubernetes Engine (GKE), this initiative adapts the cloud-native application to execute entirely within a local bare-metal environment. The target stack leverages Minikube running via the Docker Desktop virtualization driver, specifically optimized to run on an Apple Silicon (M4) ARM64 macOS architecture.
 
 The primary objectives of this deployment were to:
 
-Overcome Hardware Constraints: Dynamically scale and calibrate resource allocations (CPU and RAM) to fit localized system limits without compromising application stability.
-Resolve Architecture Barriers: Bypass legacy virtualization layers (like VirtualBox) by utilizing native containerization engines compatible with Apple Silicon hardware.
+**Overcome Hardware Constraints:** Dynamically scale and calibrate resource allocations (CPU and RAM) to fit localized system limits without compromising application stability.
 
 
-Orchestrate Multi-Language Microservices: Successfully deploy and audit all 12 system components—encompassing 11 functional microservices (written in Go, C#, Node.js, Python, and Java) and a Redis cache database.
-Establish Local Ingress Routing: Bridge isolated cluster networking back to the host machine’s browser layer to ensure fully functional, end-to-end user transactions.
+**Resolve Architecture Barriers:** Bypass legacy virtualization layers (like VirtualBox) by utilizing native containerization engines compatible with Apple Silicon hardware.
+
+
+**Orchestrate Multi-Language Microservices:** Successfully deploy and audit all 12 system components—encompassing 11 functional microservices (written in Go, C#, Node.js, Python, and Java) and a Redis cache database.
+
+
+**Establish Local Ingress Routing:** Bridge isolated cluster networking back to the host machine’s browser layer to ensure fully functional, end-to-end user transactions.
 
 
 The following sections detail the comprehensive environment preparation, manifest execution metrics, network routing configurations, and resource teardown workflows that validated this successful local deployment.
