@@ -142,9 +142,9 @@ minikube stop
 
 ___
 
- Intro to Selenium and Selenium IDE
+ ## Intro to Selenium and Selenium IDE
 
- ___
+ 
 
 **Selenium** is an open-source umbrella project providing tools and libraries optimized for web browser automation. Originally created to automate manual quality assurance tasks, it has grown into an industry-standard ecosystem used for both web application testing and large-scale web scraping. 
 
