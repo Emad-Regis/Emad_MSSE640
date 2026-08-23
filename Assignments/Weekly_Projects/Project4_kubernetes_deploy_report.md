@@ -188,9 +188,14 @@ Figure3: Recording Selenium
 
 ![Pic3](/Assignments/Images/Project4_Minikube/3.Sel_Test.png)
 
+---
+**Video** 
+Click the link and Click the Raw View to download and see the Video of Recording Selenium IDE
+
 
 **Exporting the Recorder Files**
-The file is exported to three Coding languages: 
+
+The file recorded to Selenium IDE is exported to three Coding languages: 
 
 1. Data Language JSON
    [🛠️Click](/Code/4.EMAD_Demo_BTQ.side)
