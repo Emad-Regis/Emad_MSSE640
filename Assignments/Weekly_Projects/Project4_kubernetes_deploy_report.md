@@ -99,6 +99,9 @@ shippingservice-55656785c7-z5mnt        1/1     Running   0          4m17s
 ```
 * **Key Observations:** All pods verified at `1/1 READY` and `Running` with `0` Out-Of-Memory (OOM) tracking restarts.
 
+Figure1: Pods Observation 
+![pic1](
+
 ---
 
 ## 4. Networking, Routing & Ingress Handling
