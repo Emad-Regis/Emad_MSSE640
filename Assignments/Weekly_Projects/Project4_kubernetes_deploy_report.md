@@ -178,4 +178,11 @@ As detailed in the [Selenium IDE Documentation](https://www.selenium.dev/documen
 
 The [Selenium Downloads Page](https://www.selenium.dev/downloads/) provides immediate access to the official web store links for all supported desktop browsers.
 
+---
+### Using Selenium IDE in testing "Boutique" Website 
+
+The Selenium is added in Fire Fox Web Browser for recording the event in Boutique Website 
+
+![Pic3](hdldj) 
+
 
