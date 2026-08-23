@@ -200,16 +200,13 @@ Click the link and Click the Raw View to download and see the Video of Recording
 The file recorded to Selenium IDE is exported to three Coding languages: 
 
 1. Data Language JSON
-   
    [🛠️Click](/Code/4.EMAD_Demo_BTQ.side)
 
 3. Java
-   
    [☕Click](/Code/4.EMAD_Demo_BTQ.java)
    
 5. Python
-   
- [🐍Click](/Code/4.EMAD_Demo_BTQ.py)
+   [🐍Click](/Code/4.EMAD_Demo_BTQ.py)
    
 
    
