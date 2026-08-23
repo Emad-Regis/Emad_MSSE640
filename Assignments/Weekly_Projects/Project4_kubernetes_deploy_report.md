@@ -115,6 +115,10 @@ To map internet traffic routing to the host computer, we established an active T
   ```
 * **Validation Metric:** The terminal logs successfully printed consecutive `Handling connection for 8080` metrics, verifying functional browsing interactions on **`http://localhost:8080`** with full cross-service communication (Cart, Currency, Payments, Recommendations).
 
+Figure2: Boutique
+
+![Pic2](/Assignments/Images/Project4_Minikube/2.Pic2.png)
+
 ---
 
 ## 5. Teardown Blueprint (For Future Use)
